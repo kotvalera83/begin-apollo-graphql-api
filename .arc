@@ -1,5 +1,7 @@
 @app
-begin-app
+draw-qru
+
+@static
 
 @http
 post /graphql
